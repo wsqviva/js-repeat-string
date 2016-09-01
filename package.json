@@ -1,0 +1,14 @@
+{
+  "name": "js-repeat-string",
+  "version": "0.1.0",
+  "description": "js fast repeat string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "repeat-string"
+  ],
+  "author": "wsqviva",
+  "license": "MIT"
+}
